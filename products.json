@@ -1,0 +1,182 @@
+{
+  "categories": [
+    {
+      "name": "Skin Care Products",
+      "brands": [
+        {
+          "name": "L'Oreal",
+          "items": [
+            {
+              "sys": { "id": "1" },
+              "fields": {
+                "title": "L'Oreal Hyaluronic Acid Serum",
+                "price": 700,
+                "image": { "fields": { "file": { "url": "products/L'Oreal Product1.jpg" } } },
+                "info": "This serum is designed to hydrate and plump the skin, reducing the appearance of fine lines and wrinkles."
+              }
+            },
+            {
+              "sys": { "id": "2" },
+              "fields": {
+                "title": "L'Oreal Night Cream",
+                "price": 850,
+                "image": { "fields": { "file": { "url": "products/L'Oreal Night Cream.jpg" } } },
+                "info": "Night cream enriched with moisturizing ingredients to nourish the skin overnight, leaving it soft and supple."
+              }
+            }
+          ]
+        },
+        {
+          "name": "Dr Organic",
+          "items": [
+            {
+              "sys": { "id": "3" },
+              "fields": {
+                "title": "Dr Organic Tea Tree Face Wash",
+                "price": 550,
+                "image": { "fields": { "file": { "url": "products/Dr Organic Tea Tree Face Wash.jpg" } } },
+                "info": "Gentle face wash infused with tea tree oil, known for its antibacterial properties, to cleanse and refresh the skin."
+              }
+            }
+          ]
+        },
+        {
+          "name": "Nivea",
+          "items": [
+            {
+              "sys": { "id": "4" },
+              "fields": {
+                "title": "Nivea Nourishing Cocoa",
+                "price": 300,
+                "image": { "fields": { "file": { "url": "products/nivea1.jpg" } } },
+                "info": "Rich cocoa butter formula to deeply nourish and hydrate dry skin, leaving it smooth and radiant."
+              }
+            },
+            {
+              "sys": { "id": "5" },
+              "fields": {
+                "title": "Nivea Shea Smooth",
+                "price": 310,
+                "image": { "fields": { "file": { "url": "products/nivea4.jpg" } } },
+                "info": "Shea butter-infused lotion for intensive moisturization, perfect for dry and rough skin."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Make-Up Products",
+      "brands": [
+        {
+          "name": "Maybelline",
+          "items": [
+            {
+              "sys": { "id": "6" },
+              "fields": {
+                "title": "Maybelline Fit Me Foundation",
+                "price": 650,
+                "image": { "fields": { "file": { "url": "products/Maybelline Fit Me Foundation.jpg" } } },
+                "info": "Lightweight foundation that mattifies and refines pores, offering natural coverage for a flawless complexion."
+              }
+            }
+          ]
+        },
+        {
+          "name": "LA Colors",
+          "items": [
+            {
+              "sys": { "id": "7" },
+              "fields": {
+                "title": "LA Colors Matte Lipstick",
+                "price": 250,
+                "image": { "fields": { "file": { "url": "products/LA Colors Matte Lipstick.jpg" } } },
+                "info": "Long-lasting matte lipstick available in a range of vibrant shades, providing a velvety finish."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hair Products",
+      "brands": [
+        {
+          "name": "Cantu",
+          "items": [
+            {
+              "sys": { "id": "8" },
+              "fields": {
+                "title": "Cantu Leave-In Conditioner",
+                "price": 600,
+                "image": { "fields": { "file": { "url": "products/Cantu Leave-In Conditioner.jpg" } } },
+                "info": "Leave-in conditioner infused with shea butter and natural oils to deeply moisturize and detangle hair."
+              }
+            }
+          ]
+        },
+        {
+          "name": "L'Oreal",
+          "items": [
+            {
+              "sys": { "id": "9" },
+              "fields": {
+                "title": "L'Oreal Hair Oil",
+                "price": 500,
+                "image": { "fields": { "file": { "url": "products/L'Oreal Hair Oil.jpg" } } },
+                "info": "Nourishing hair oil enriched with botanical extracts to add shine and manageability to all hair types."
+              }
+            }
+          ]
+        },
+        {
+          "name": "Argan Morrocco",
+          "items": [
+            {
+              "sys": { "id": "10" },
+              "fields": {
+                "title": "Argan Hand & Nail Cream",
+                "price": 695,
+                "image": { "fields": { "file": { "url": "products/product2.jpg" } } },
+                "info": "Luxurious hand and nail cream infused with argan oil to deeply hydrate and soften hands and cuticles."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "brands": [
+        {
+          "name": "Jewelry",
+          "items": [
+            {
+              "sys": { "id": "11" },
+              "fields": {
+                "title": "Silver Necklace",
+                "price": 200,
+                "image": { "fields": { "file": { "url": "products/Silver Necklace.jfif" } } },
+                "info": "Elegant silver necklace featuring a delicate chain and a timeless design, perfect for everyday wear or special occasions."
+              }
+            }
+          ]
+        },
+        {
+          "name": "Other Items",
+          "items": [
+            {
+              "sys": { "id": "12" },
+              "fields": {
+                "title": "Hair Brush",
+                "price": 150,
+                "image": { "fields": { "file": { "url": "products/Hair Brush.jfif" } } },
+                "info": "Detangling hairbrush with soft bristles, suitable for all hair types and lengths."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
